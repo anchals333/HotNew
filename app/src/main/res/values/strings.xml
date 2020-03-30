@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HotNew</string>
+    <string name="hot_tab">A</string>
+    <string name="new_tab">B</string>
+    <string name="api_error">Something went wrong!!!</string>
+    <string name="internet_error">No internet connection!!!</string>
+</resources>
